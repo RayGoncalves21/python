@@ -1,5 +1,5 @@
-peso_2 = float(input('Seu peso'))
-altura_2 = float(input('Sua altura'))
+peso_2 = float(input('Seu peso: '))
+altura_2 = float(input('Sua altura: '))
 
 
 imc = peso_2 / (altura_2 * altura_2)
